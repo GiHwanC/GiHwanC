@@ -4,7 +4,7 @@
 
 ## 💼 기본 인적 사항
 
-상세 프로필[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/docs/PROFILE.md)
+상세 프로필 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/docs/PROFILE.md)
 
 ---
 
