@@ -8,7 +8,7 @@
 ---
 ## 💼 기본 인적 사항
 
-> (./PROFILE.md)
+- 상세 프로필 : [docs/PROFILE.md](./docs/PROFILE.md)
 
 ---
 
