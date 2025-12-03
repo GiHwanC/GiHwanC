@@ -5,86 +5,69 @@
 저는 임베디드 시스템과 AI 융합 기술을 기반으로
 지능형 자동차와 스마트 디바이스를 개발하는 것을 목표로 하고 있습니다.
 
-라즈베리파이·STM32·CAN 통신·AI 추론 등 하드웨어-소프트웨어 통합형 개발에 강점을 가지고 있습니다.
+---
+## 💼 기본 인적 사항
+
+> (./PROFILE.md)
 
 ---
 
 ## 🧩 기술 스택
 
 **언어**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **임베디드 플랫폼**  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**시스템 & 도구**  
-`Linux (Ubuntu, Yocto)` `CAN-Bus (MCP2515)`  
-`GStreamer` `OpenCV` `Hailo-8 AI Accelerator`  
-`Carla Simulator` `Git` `CMake`
+`CAN-Bus (MCP2515)` `GStreamer` `OpenCV` `Carla Simulator` `Git`
 
 ---
 
 ## 🚀 주요 프로젝트
 
+---
+
 ### 🚗 AI Blackbox 시스템
 
-> 다중 카메라와 CAN 통신을 융합한 지능형 블랙박스
+🔗 (https://github.com/GiHwanC/blackbox-project)
 
 - **개요:** 차량 상태 데이터(RPM, 속도, 기어, GPS 등)와 영상 정보를 동기화하여 저장
 - **기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론, GStreamer 스트리밍
 - **성과:** 사고 전후(-10s/+10s) 영상 저장 및 위험 감지 기반 이벤트 기록 시스템 구현
 
 ---
+### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템  
+
+🔗 (https://github.com/GiHwanC/Shhh)
+
+- 사운드·진동·가스·불꽃 센서 기반 **원룸/고시원 모니터링**
+- Arduino + Raspberry Pi 연동, UART 통신, LCD 경고 표시
+- 소음/안전 데이터를 통합 관리하는 IoT 시스템
+
+---
 
 ### 🚦 스마트 신호등 시스템
 
-> 교통 흐름에 따라 자동 제어되는 지능형 교차로 모델
+🔗 (https://github.com/GiHwanC/SmartTrafficLight-System)
 
-- **개요:** RFID 센서로 차량 감지, 서보모터로 차단기 제어
+- **개요:** RFID 센서로 교통 약자 감지, 서보모터로 차단기 제어
 - **기술:** STM32F411, UART/FND/Timer/Servo 제어, C언어
 - **성과:** 주행 차량 우선 신호 제어 로직으로 대기 시간 단축
 
 ---
 
-### 🌾 국제 공동 캡스톤 (한-태 협력 프로젝트)
+### 🚴‍♂️ 자전거 보행자 자동 경고 시스템
 
-> 스마트 농업을 위한 자율주행 씨앗 파종 로봇 개발
+🔗 (https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
 
-- **협력:** 태국 RMUTT 대학과 공동 진행
-- **기술:** Raspberry Pi, YOLOv5, GPS, 모터 제어
-- **성과:** 자율 주행 기반 경로 추종 및 장애물 회피 시스템 구현
-
----
-
-## 🧭 활동 및 경험
-
-- **영남대학교** 전자공학과 / 전자정보융합전공 복수전공
-- **국제 캡스톤 디자인** – 태국 RMUTT와 공동 프로젝트
-- **MIDAS SW 중심대학 홍보단 부단장**
-- **단과대학 부학생회장 / 과 부학회장**
-- **CES 2024, 나고야 IT Week 박람회 참관**
-
----
-
-## 💼 자격증 및 교육 이수 내역
-
-**자격증**
-
-- SQLD : 한국데이터산업진흥원(SQLD-055019105)
-- 운전면허1종보통 : 경북지방경찰청장
-- 정보처리기사(필기)
-- Toeic Speaking IM2(120), 302247-151002101
-
-**교육 이수**
-
-- YU Digital HUSS 해커톤(영남대학교 인문사회 디지털 융합인재양성사업단, 2024.05.27~2024.06.01) :
-  ‘미래사회를 대비한 지역재생 문제해결 아젠다 발굴’을 주제로 해커톤 프로그램 과정을 수료하였습니다.
-
-- 파이썬으로 배우는 실무 응용 프로그래밍(영남대학교 LINC 3.0 사업단, 2024.07.22~2024.07.26) :
-  '파이썬을 통해 빅데이터 활용 능력을 배양하는 프로그램 과정을 수료하였습니다.'
-
-- Intel Edge AI/SW Arcademy(대한상공회의소, 2025.07.08~2026.01.22) :
-  C,C++,펌웨어 프로그래밍, 리눅스 커널, 디바이스 드라이버, Edge AI 모델 연동 등 임베디드 시스템 개발 과정을 수강중입니다.
+- 자전거/보행자 인식 기반 **양방향 경고 시스템**
+- Raspberry Pi + Depth Camera + YOLO 기반 객체 인식
+- AI/SW 트랙 산학 프로젝트 성과공유회 **대상 수상**
 
 ---
 
