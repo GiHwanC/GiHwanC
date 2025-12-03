@@ -34,7 +34,7 @@
 
 ### 🚗 AI Blackbox 시스템
 
-🔗 (https://github.com/GiHwanC/blackbox-project)
+[🔗 GitHub Repository](https://github.com/GiHwanC/blackbox-project)
 
 - **개요:** 차량 상태 데이터(RPM, 속도, 기어, GPS 등)와 영상 정보를 동기화하여 저장
 - **기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론, GStreamer 스트리밍
@@ -43,7 +43,7 @@
 ---
 ### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템  
 
-🔗 (https://github.com/GiHwanC/Shhh)
+[🔗 GitHub Repository](https://github.com/GiHwanC/Shhh)
 
 - 사운드·진동·가스·불꽃 센서 기반 **원룸/고시원 모니터링**
 - Arduino + Raspberry Pi 연동, UART 통신, LCD 경고 표시
@@ -53,7 +53,7 @@
 
 ### 🚦 스마트 신호등 시스템
 
-🔗 (https://github.com/GiHwanC/SmartTrafficLight-System)
+[🔗 GitHub Repository](https://github.com/GiHwanC/SmartTrafficLight-System)
 
 - **개요:** RFID 센서로 교통 약자 감지, 서보모터로 차단기 제어
 - **기술:** STM32F411, UART/FND/Timer/Servo 제어, C언어
@@ -63,7 +63,7 @@
 
 ### 🚴‍♂️ 자전거 보행자 자동 경고 시스템
 
-🔗 (https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
+[🔗 GitHub Repository](https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
 
 - 자전거/보행자 인식 기반 **양방향 경고 시스템**
 - Raspberry Pi + Depth Camera + YOLO 기반 객체 인식
