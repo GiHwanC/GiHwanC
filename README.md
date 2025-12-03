@@ -1,14 +1,10 @@
 # 👋 안녕하세요, 임베디드 소프트웨어 개발자 김기환입니다.
 
-### 🔧 하드웨어부터 AI까지, 경계를 잇는 엔지니어
-
-저는 임베디드 시스템과 AI 융합 기술을 기반으로
-지능형 자동차와 스마트 디바이스를 개발하는 것을 목표로 하고 있습니다.
-
 ---
+
 ## 💼 기본 인적 사항
 
-- 상세 프로필 : [docs/PROFILE.md](./docs/PROFILE.md)
+- 상세 프로필 : [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)(./docs/PROFILE.md)
 
 ---
 
@@ -30,18 +26,17 @@
 
 ## 🚀 주요 프로젝트
 
----
-
 ### 🚗 AI Blackbox 시스템
 
-[🔗 GitHub Repository](https://github.com/GiHwanC/blackbox-project)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)(https://github.com/GiHwanC/blackbox-project)
 
 - **개요:** 차량 상태 데이터(RPM, 속도, 기어, GPS 등)와 영상 정보를 동기화하여 저장
 - **기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론, GStreamer 스트리밍
 - **성과:** 사고 전후(-10s/+10s) 영상 저장 및 위험 감지 기반 이벤트 기록 시스템 구현
 
 ---
-### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템  
+
+### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템
 
 [🔗 GitHub Repository](https://github.com/GiHwanC/Shhh)
 
