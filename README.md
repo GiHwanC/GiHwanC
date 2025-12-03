@@ -4,7 +4,7 @@
 
 ## 💼 기본 인적 사항
 
-- 상세 프로필 : [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/docs/PROFILE.md)
+상세 프로필[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/docs/PROFILE.md)
 
 ---
 
@@ -20,19 +20,18 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-`CAN-Bus (MCP2515)` `GStreamer` `OpenCV` `Carla Simulator` `Git`
+`CAN-Bus (MCP2515)` `GStreamer` `OpenCV` `Carla Simulator` `GitHub`
 
 ---
+
 ## 🚀 주요 프로젝트
 
----
-
-### 🚗 AI Blackbox 시스템  
+### 🚗 AI Blackbox 시스템 (2025.09.24 ~ 2025.10.22)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터  
-- **핵심 키워드:** 차량 데이터 동기화, OBD/CAN 통신, 다중 카메라, 위험 이벤트 기록  
-- **핵심 기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론, GStreamer, CAN(MCP2515)
+- **핵심 키워드:** 차량 데이터 동기화, OBD/CAN 통신, 다중 카메라, 위험 이벤트 기반 영상 기록  
+- **핵심 기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론(PETR), GStreamer, CAN(MCP2515)
 
 ---
 
@@ -49,24 +48,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/SmartTrafficLight-System)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터  
-- **핵심 키워드:** RFID 기반 교통 약자 감지, 차단기 제어, 실시간 신호 변경, 임베디드 제어  
-- **핵심 기술:** STM32F411, RFID(RC522), UART, Timer, FND, Servo Motor
+- **핵심 키워드:** RFID 기반 교통 약자 감지, 차단기 제어, 정지선 침범 및 무단 횡단 방지
+- **핵심 기술:** STM32F411, RFID(RC522), UART, Timer, Servo Motor
 
 ---
 
 ### 🚴‍♂️ 자전거 보행자 자동 경고 시스템 (2024.09.02 ~ 2024.12.21)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
 
-- **프로젝트 기관:** 대한상공회의소 서울기술교육센터  
+- **프로젝트 기관:** 영남대학교 AI/SW트랙
 - **핵심 키워드:** 보행자 인식, 얼굴 방향 판별, Depth 기반 거리 계산, 양방향 경고 시스템  
 - **핵심 기술:** Raspberry Pi 5, Intel RealSense D455, YOLOv5, MTCNN, Python, GPIO(Buzzer/Lamp)
-
----
-
-## 🧰 GitHub 통계
-
-![Gihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiHwanC&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwan-dev&layout=compact&theme=tokyonight)
 
 ---
 
