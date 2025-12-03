@@ -4,7 +4,7 @@
 
 ## 💼 기본 인적 사항
 
-- 상세 프로필 : [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)(./docs/PROFILE.md)
+- 상세 프로필 : [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/GiHwanC/docs/PROFILE.md)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 🚗 AI Blackbox 시스템
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/)(https://github.com/GiHwanC/blackbox-project)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
 
 - **개요:** 차량 상태 데이터(RPM, 속도, 기어, GPS 등)와 영상 정보를 동기화하여 저장
 - **기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론, GStreamer 스트리밍
