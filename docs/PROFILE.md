@@ -14,16 +14,22 @@
 
 **자격증**
 
+
 <table>
 <tr>
+
 <td align="center">
-  <img src="docs/certificate/toeic_speaking.png" width="250px"><br/>
-  TOEIC Speaking IM2
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/certificate/toeic_speaking.png" width="230px"><br/>
+  <b>TOEIC Speaking IM2</b>
 </td>
+
 <td align="center">
-  <img src="docs/certificate/SQLD.pdf" width="250px"><br/>
-  SQLD 자격증 (PDF 파일)
+  <a href="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/certificate/SQLD.pdf">
+    <img src="https://img.shields.io/badge/SQLD-자격증-blue?style=for-the-badge&logo=googledocs"/>
+  </a><br/>
+  <b>SQLD 자격증</b>
 </td>
+
 </tr>
 </table>
 
@@ -73,7 +79,7 @@
 **졸업 논문**
 
 <p align="center">
-  <img src="졸업논문.png" width="350px"><br/>
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/졸업논문.png" width="350px">
   <b>졸업논문</b>
 </p>
 
