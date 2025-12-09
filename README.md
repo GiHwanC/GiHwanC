@@ -6,7 +6,7 @@
 
 상세 프로필 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/GiHwanC/docs/PROFILE.md)
+[![GitHub](https://img.shields.io/badge/상세프로필-181717?style=flat&logo=github&logoColor=white)](https://github.com/GiHwanC/GiHwanC/blob/main/docs/PROFILE.md)
 
 ---
 
