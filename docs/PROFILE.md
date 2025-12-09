@@ -28,10 +28,22 @@
 
 <table>
 <tr>
-<td align="center"><img src="docs/awards/award1.png" width="200px"><br/>AI/SW트랙 프로젝트 대상</td>
-<td align="center"><img src="docs/awards/award2.png" width="200px"><br/>오픈소스 SW개발 경진대회 우수상</td>
-<td align="center"><img src="docs/awards/award3.png" width="200px"><br/>종설 금상</td>
-<td align="center"><img src="docs/awards/award4.png" width="200px"><br/>SW경진대회 수상</td>
+<td align="center">
+  <img src="gihwan/award/award1.png" width="200px"><br/>
+  오픈소스 SW개발 경진대회 우수상
+</td>
+<td align="center">
+  <img src="gihwan/award/award2.png" width="200px"><br/>
+  SW경진대회 수상
+</td>
+<td align="center">
+  <img src="gihwan/award/award3.png" width="200px"><br/>
+  종설 금상
+</td>
+<td align="center">
+  <img src="gihwan/award/award4.png" width="200px"><br/>
+  AI/SW트랙 프로젝트 대상
+</td>
 </tr>
 </table>
 
