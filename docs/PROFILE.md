@@ -1,4 +1,4 @@
-<img width="497" height="613" alt="image" src="https://github.com/user-attachments/assets/a2ea49a0-e255-43ce-a265-d05d99e23ffe" />**인적 사항**
+**인적 사항**
 
 - 문현고등학교(울산) (2016-02-12 ~ 2019-02-14)
 - 영남대학교(경북) (2019-03-04 ~ 2025-02-21)
