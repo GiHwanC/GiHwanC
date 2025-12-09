@@ -30,19 +30,19 @@
 <tr>
 <td align="center">
   <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award1.png" width="200px"><br/>
-  AI/SW트랙 프로젝트 대상
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award2.png" width="200px"><br/>
   오픈소스 SW개발 경진대회 우수상
 </td>
 <td align="center">
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award2.png" width="200px"><br/>
+  2024 Capstone Design Fair 동상
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award3.png" width="200px"><br/>
-  종설 금상
+  2024 전자공학과 Capstone Design 동상
 </td>
 <td align="center">
   <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award4.png" width="200px"><br/>
-  SW경진대회 수상
+  AI/SW트랙 성과공유회 대상
 </td>
 </tr>
 </table>
