@@ -1,4 +1,4 @@
-**인적 사항**
+<img width="497" height="613" alt="image" src="https://github.com/user-attachments/assets/a2ea49a0-e255-43ce-a265-d05d99e23ffe" />**인적 사항**
 
 - 문현고등학교(울산) (2016-02-12 ~ 2019-02-14)
 - 영남대학교(경북) (2019-03-04 ~ 2025-02-21)
@@ -29,23 +29,24 @@
 <table>
 <tr>
 <td align="center">
-  <img src="docs/awards/award1.png" width="200px"><br/>
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award1.png" width="200px"><br/>
+  AI/SW트랙 프로젝트 대상
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award2.png" width="200px"><br/>
   오픈소스 SW개발 경진대회 우수상
 </td>
 <td align="center">
-  <img src="docs/awards/award2.png" width="200px"><br/>
-  SW경진대회 수상
-</td>
-<td align="center">
-  <img src="docs/awards/award3.png" width="200px"><br/>
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award3.png" width="200px"><br/>
   종설 금상
 </td>
 <td align="center">
-  <img src="docs/awards/award4.png" width="200px"><br/>
-  AI/SW트랙 프로젝트 대상
+  <img src="https://raw.githubusercontent.com/GiHwanC/GiHwanC/main/docs/awards/award4.png" width="200px"><br/>
+  SW경진대회 수상
 </td>
 </tr>
 </table>
+
 
 - 2024 전자공학 창의연구 융합설계 - **동상**
   - 영남대학교 전자공학과 / 2024-11-19
