@@ -79,8 +79,7 @@
 - **출원일:** 2024.12.12  
 - **저자:** 권혁민, 김규영, 김기환, 장보경  
 - **한 줄 소개:** 경기장 코트 바닥을 자동으로 감지·청소하는 로봇 시스템  
-- **출원서:**  
-  [![PDF](https://img.shields.io/badge/출원서-PDF-red?logo=adobeacrobatreader&logoColor=white)](docs/patent/경기장%20코트%20바닥청소%20시스템%20및%20방법%20-%20출원서.pdf)
+[![PDF](https://img.shields.io/badge/출원서-PDF-red?logo=adobeacrobatreader&logoColor=white)](patent/경기장%20코트%20바닥청소%20시스템%20및%20방법%20-%20출원서.pdf)
 
 ---
 
@@ -88,8 +87,7 @@
 - **출원일:** 2024.12.12  
 - **저자:** 김규영, 박진영, 옥지원, 조현우, 김기환, 박제환  
 - **한 줄 소개:** 조리대상체를 자동 인식해 굽기 정도에 맞춰 조리하는 스마트 오븐 기술  
-- **출원서:**  
-  [![PDF](https://img.shields.io/badge/출원서-PDF-red?logo=adobeacrobatreader&logoColor=white)](docs/patent/자동%20굽기%20오븐%20및%20그%20운용방법%20-%20출원서.pdf)
+ [![PDF](https://img.shields.io/badge/출원서-PDF-red?logo=adobeacrobatreader&logoColor=white)](patent/자동%20굽기%20오븐%20및%20그%20운용방법%20-%20출원서.pdf)
 
 
 **해외 경험**
