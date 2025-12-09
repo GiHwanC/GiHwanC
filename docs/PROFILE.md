@@ -14,6 +14,19 @@
 
 **자격증**
 
+<table>
+<tr>
+<td align="center">
+  <img src="docs/certificate/toeic_speaking.png" width="250px"><br/>
+  TOEIC Speaking IM2
+</td>
+<td align="center">
+  <img src="docs/certificate/SQLD.pdf" width="250px"><br/>
+  SQLD 자격증 (PDF 파일)
+</td>
+</tr>
+</table>
+
 - SQLD : 한국데이터산업진흥원(SQLD-055019105)
 - 운전면허1종보통 : 경북지방경찰청장
 - 정보처리기사(필기)
@@ -58,6 +71,11 @@
   - 영남대학교 AI/SW트랙 / 2025-01-16
 
 **졸업 논문**
+
+<p align="center">
+  <img src="졸업논문.png" width="350px"><br/>
+  <b>졸업논문</b>
+</p>
 
 **특허 출원**
 
