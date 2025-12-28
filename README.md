@@ -21,7 +21,7 @@ PROFILE
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+#181717
 `CAN-Bus (MCP2515)` `GStreamer` `OpenCV` `Carla Simulator` `GitHub`
 
 ---
@@ -66,6 +66,6 @@ PROFILE
 
 ## 📫 연락처
 
-> 📧 **이메일:** ghwani0507@gmail.com
+> 📧 **이메일:** oykkhyo@naver.com / ghwani0507@gmail.com
 
 ---
