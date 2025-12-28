@@ -20,7 +20,7 @@ PROFILE
 **임베디드 플랫폼**  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-#00878F?style=flat-square&logo=linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
