@@ -39,6 +39,8 @@ PROFILE
 ### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
 
+
+
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
 - **핵심 키워드:** ROS2, QT Ceator, UWB, Raspberry Pi, HX711
@@ -71,6 +73,7 @@ PROFILE
 ### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템 (2025.08.21 ~ 2025.08.25)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Shhh)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=i5RBEfYpDxU)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, 프로젝트 전체 구조 및 통신 구조 설계, 센서 데이터 제어 로직 개발
