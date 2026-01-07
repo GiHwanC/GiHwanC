@@ -36,7 +36,15 @@ PROFILE
 
 ## 🚀 주요 프로젝트
 
-### 🔐 LINUX Device Driver - '금고 비밀번호를 찾아라'
+### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART'
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** ROS2, QT Ceator, UWB, Raspberry Pi, HX711
+- **핵심 기술:** 
+
+
+### 🔐 Linux Device Driver - '금고 비밀번호를 찾아라'
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Device_driver_project.git)
 
