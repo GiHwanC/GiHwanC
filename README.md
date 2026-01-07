@@ -40,7 +40,7 @@ PROFILE
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
-- **참여 역할:** 프로젝트 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
+- **참여 역할:** 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
 - **핵심 키워드:** ROS2, QT Ceator, UWB, Raspberry Pi, HX711
 - **핵심 기술:** TCP/UDP 통신, SQLite, QT Creator를 활용한 GUI 설계, UWB기반 DW3000을 활용한 로봇 제어
 
