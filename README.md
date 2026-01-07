@@ -36,27 +36,33 @@ PROFILE
 
 ## 🚀 주요 프로젝트
 
-### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART'
+### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** 프로젝트 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
 - **핵심 키워드:** ROS2, QT Ceator, UWB, Raspberry Pi, HX711
-- **핵심 기술:** 
+- **핵심 기술:** TCP/UDP 통신, SQLite, QT Creator를 활용한 GUI 설계, UWB기반 DW3000을 활용한 로봇 제어
 
+---
 
-### 🔐 Linux Device Driver - '금고 비밀번호를 찾아라'
+### 🔐 Linux Device Driver - '금고 비밀번호를 찾아라' (2025.12.24 ~ 2025.12.29)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Device_driver_project.git)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** Application Logic, UI 구성 및 테스트
 - **핵심 키워드:** Device Driver, GPIO/I2C/PWM
 - **핵심 기술:** Raspberry Pi 4, Linux Kernel Module, Rotary Encoder, OLED(SSD1306), RTC(DS1302), PWM Piezo Buzzer
+
+---
 
 ### 🚗 AI Blackbox 시스템 (2025.09.24 ~ 2025.10.22)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** 부팀장, Application 로직 설계, Carla-Arduino-RaspberryPi CAN 데이터 송수신 구조 설계
 - **핵심 키워드:** 차량 데이터 동기화, OBD/CAN 통신, 다중 카메라, 위험 이벤트 기반 영상 기록
 - **핵심 기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론(PETR), GStreamer, CAN(MCP2515)
 
@@ -67,6 +73,7 @@ PROFILE
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Shhh)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** 팀장, 프로젝트 전체 구조 및 통신 구조 설계, 센서 데이터 제어 로직 개발
 - **핵심 키워드:** 소음 감지, 진동 감지, 화재·가스 안전 모니터링, IoT 경고 시스템
 - **핵심 기술:** Arduino, Raspberry Pi, 사운드/진동/화재/가스 센서, LCD, UART, BLE/Wi-Fi
 
@@ -77,6 +84,7 @@ PROFILE
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/SmartTrafficLight-System)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** 팀장, 프로젝트 전체 구조 및 기능 설계, 펌웨어 개발
 - **핵심 키워드:** RFID 기반 교통 약자 감지, 차단기 제어, 정지선 침범 및 무단 횡단 방지
 - **핵심 기술:** STM32F411, RFID(RC522), UART, Timer, Servo Motor
 
@@ -87,6 +95,7 @@ PROFILE
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
 
 - **프로젝트 기관:** 영남대학교 AI/SW트랙
+- **참여 역할:** RealSense + Yolo 시스템 설계, 위험 판단 알고리즘 설계, GPIO 제어, 테스트 시나리오 설계 및 개선
 - **핵심 키워드:** 보행자 인식, 얼굴 방향 판별, Depth 기반 거리 계산, 양방향 경고 시스템
 - **핵심 기술:** Raspberry Pi 5, Intel RealSense D455, YOLOv5, MTCNN, Python, GPIO(Buzzer/Lamp)
 
