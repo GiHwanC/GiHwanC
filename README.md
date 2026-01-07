@@ -38,8 +38,7 @@ PROFILE
 
 ### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
-
-
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TjBJxa32S4Y)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
@@ -59,7 +58,7 @@ PROFILE
 
 ---
 
-### 🚗 AI Blackbox 시스템 (2025.09.24 ~ 2025.10.22)
+### 🚗 Halio PETR 기반 AI Blackbox 시스템 (2025.09.24 ~ 2025.10.22)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
 
@@ -70,8 +69,8 @@ PROFILE
 
 ---
 
-### 🏠 Shhh – 원룸·고시원 소음·안전 모니터링 시스템 (2025.08.21 ~ 2025.08.25)
-
+### 🏠 원룸·고시원 소음·안전 모니터링 시스템 - Shhh! (2025.08.21 ~ 2025.08.25)
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Shhh)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=i5RBEfYpDxU)
 
@@ -82,9 +81,10 @@ PROFILE
 
 ---
 
-### 🚦 스마트 신호등 시스템 (2025.08.01 ~ 2025.08.08)
+### 🚦 RFID 기반 스마트 신호등 시스템 (2025.08.01 ~ 2025.08.08)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/SmartTrafficLight-System)
+
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, 프로젝트 전체 구조 및 기능 설계, 펌웨어 개발
@@ -93,9 +93,11 @@ PROFILE
 
 ---
 
-### 🚴‍♂️ 자전거 보행자 자동 경고 시스템 (2024.09.02 ~ 2024.12.21)
+### 🚴‍♂️ 얼굴 인식과 객체 인식을 활용한 자전거 보행자 자동 경고 시스템 (2024.09.02 ~ 2024.12.21)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/cLyV5L-hb5E)
+
 
 - **프로젝트 기관:** 영남대학교 AI/SW트랙
 - **참여 역할:** RealSense + Yolo 시스템 설계, 위험 판단 알고리즘 설계, GPIO 제어, 테스트 시나리오 설계 및 개선
