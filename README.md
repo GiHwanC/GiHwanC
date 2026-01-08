@@ -47,7 +47,7 @@ PROFILE
 - **핵심 기술:** TCP/UDP 통신, SQLite, QT Creator를 활용한 GUI 설계, UWB기반 DW3000을 활용한 로봇 제어
 
 ---
-ㅔㅈㅇ
+
 ### 🔐 Linux Device Driver - '금고 비밀번호를 찾아라' (2025.12.24 ~ 2025.12.29)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Device_driver_project.git)
@@ -63,6 +63,7 @@ PROFILE
 ### 🚗 Halio PETR 기반 AI Blackbox 시스템 (2025.09.24 ~ 2025.10.22)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/1cBhyvbe3tw)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 부팀장, Application 로직 설계, Carla-Arduino-RaspberryPi CAN 데이터 송수신 구조 설계
