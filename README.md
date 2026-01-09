@@ -39,24 +39,24 @@ PROFILE
 ### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TjBJxa32S4Y)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TjBJxa32S4Y)  
 
+👉 UWB 실내 위치 추적을 기반으로 사용자를 따라 이동하는 ROS 자율주행 쇼핑카트 시스템
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
-- **핵심 키워드:** ROS2, QT Ceator, UWB, Raspberry Pi, HX711
-- **핵심 기술:** TCP/UDP 통신, SQLite, QT Creator를 활용한 GUI 설계, UWB기반 DW3000을 활용한 로봇 제어
+- **핵심 기술:** ROS2, QT Creator GUI, UWB(DW3000), TCP/UDP 통신, SQLite, Raspberry Pi, HX711 무게 감지 센서
 
 ---
 
 ### 🔐 Linux Device Driver - '금고 비밀번호를 찾아라' (2025.12.24 ~ 2025.12.29)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Device_driver_project.git)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/O9KKGyTPbAM)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/O9KKGyTPbAM)  
 
+👉 리눅스 디바이스 드라이버를 직접 구현해 하드웨어 기반 금고 퍼즐을 제어하는 시스템
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** Application Logic, UI 구성 및 테스트
-- **핵심 키워드:** Device Driver, GPIO/I2C/PWM
-- **핵심 기술:** Raspberry Pi 4, Linux Kernel Module, Rotary Encoder, OLED(SSD1306), RTC(DS1302), PWM Piezo Buzzer
+- **핵심 기술:** Linux Kernel Module, GPIO / I2C / PWM, Raspberry Pi 4, OLED(SSD1306), RTC(DS1302)
 
 ---
 
@@ -65,46 +65,46 @@ PROFILE
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/blackbox-project)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/1DlN8U-Qty0)
 
+👉 다중 카메라 입력과 차량 CAN 데이터를 융합해 충돌 위험 상황을 자동 기록하는 AI 블랙박스
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 부팀장, Application 로직 설계, Carla-Arduino-RaspberryPi CAN 데이터 송수신 구조 설계
-- **핵심 키워드:** 차량 데이터 동기화, OBD/CAN 통신, 다중 카메라, 위험 이벤트 기반 영상 기록
-- **핵심 기술:** Raspberry Pi 5, C/Python 하이브리드, Hailo-8 AI 추론(PETR), GStreamer, CAN(MCP2515)
+- **핵심 기술:** CAN 통신(MCP2515), OBD-II, PETR 기반 3D 인지, Hailo-8, GStreamer, Raspberry Pi 5
 
 ---
 
 ### 🏠 원룸·고시원 소음·안전 모니터링 시스템 - Shhh! (2025.08.21 ~ 2025.08.25)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Shhh)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=i5RBEfYpDxU)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=i5RBEfYpDxU)  
 
+👉 소음·진동·가스·화재 센서를 활용해 1인 주거 공간의 위험 상황을 실시간 감지하는 IoT 시스템
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, 프로젝트 전체 구조 및 통신 구조 설계, 센서 데이터 제어 로직 개발
-- **핵심 키워드:** 소음 감지, 진동 감지, 화재·가스 안전 모니터링, IoT 경고 시스템
-- **핵심 기술:** Arduino, Raspberry Pi, 사운드/진동/화재/가스 센서, LCD, UART, BLE/Wi-Fi
+- **핵심 기술:** Arduino, Raspberry Pi, UART / BLE / Wi-Fi, 환경 센서, LCD 제어
 
 ---
 
 ### 🚦 RFID 기반 스마트 신호등 시스템 (2025.08.01 ~ 2025.08.08)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/SmartTrafficLight-System)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/EmbXCqeXtM8)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/EmbXCqeXtM8)  
 
+👉 RFID를 활용해 교통 약자를 인식하고 신호 제어를 자동화한 스마트 교차로 시스템
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, 프로젝트 전체 구조 및 기능 설계, 펌웨어 개발
-- **핵심 키워드:** RFID 기반 교통 약자 감지, 차단기 제어, 정지선 침범 및 무단 횡단 방지
-- **핵심 기술:** STM32F411, RFID(RC522), UART, Timer, Servo Motor
+- **핵심 기술:** STM32F411, RFID(RC522), UART, Timer, Servo Motor 제어
 
 ---
 
 ### 🚴‍♂️ 얼굴 인식과 객체 인식을 활용한 자전거 보행자 자동 경고 시스템 (2024.09.02 ~ 2024.12.21)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/Bicycle-pedestrian-automatic-warning-system)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/cLyV5L-hb5E)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/cLyV5L-hb5E)  
 
+👉 뎁스 카메라 기반 객체·얼굴 인식을 통해 자전거와 보행자 간 충돌 위험을 사전에 경고하는 시스템
 - **프로젝트 기관:** 영남대학교 AI/SW트랙
 - **참여 역할:** RealSense + Yolo 시스템 설계, 위험 판단 알고리즘 설계, GPIO 제어, 테스트 시나리오 설계 및 개선
-- **핵심 키워드:** 보행자 인식, 얼굴 방향 판별, Depth 기반 거리 계산, 양방향 경고 시스템
-- **핵심 기술:** Raspberry Pi 5, Intel RealSense D455, YOLOv5, MTCNN, Python, GPIO(Buzzer/Lamp)
+- **핵심 기술:** YOLOv5, MTCNN, Depth 기반 거리 계산, Intel RealSense D455, Raspberry Pi, GPIO 제어
 
 ---
 
