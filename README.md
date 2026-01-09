@@ -39,7 +39,7 @@ PROFILE
 ### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TjBJxa32S4Y)  
-**- UWB 실내 위치 추적을 기반으로 사용자를 따라 이동하는 ROS 자율주행 쇼핑카트 시스템**  
+**- UWB 실내 위치 추적을 기반으로 사용자를 따라 이동하는 ROS 자율주행 쇼핑카트 시스템**
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **참여 역할:** 팀장, PM, UWB를 통한 좌표 추출 및 로봇 제어
 - **핵심 기술:** ROS2, QT Creator GUI, UWB(DW3000), TCP/UDP 통신, SQLite, Raspberry Pi, HX711 무게 감지 센서
