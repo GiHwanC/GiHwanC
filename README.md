@@ -82,7 +82,7 @@ PROFILE
 
 ---
 
-### 🚦 RFID 기반 스마트 신호등 시스템 (2025.08.01 ~ 2025.08.08) 
+### 🚦 RFID 기반 스마트 신호등 시스템 (2025.08.05 ~ 2025.08.09) 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/SmartTrafficLight-System)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/EmbXCqeXtM8)
 <br>
