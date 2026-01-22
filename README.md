@@ -34,6 +34,18 @@ PROFILE
 
 ## 🚀 주요 프로젝트
 
+### 🚘 CAN UDS/OBD-II 기반 운전자 운전성향분석 시스템 (2026.01.06 ~ 2026.01.18)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/driving-risk-flow-scoring.git)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/F6SeKxxzXlY) 
+<br>
+
+- **한줄 소개:** 실차 CAN 진단 데이터(OBD-II PID + UDS DID)를 활용해 운전자의 운전성향을 평가하고, 결과를 점수 + 캐릭터 피드백 UI로 제공하는 시스템
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **참여 역할:** SW개발, 실차(NIRO) CAN 데이터 수집 및 파이프라인 설계 및 구현, 데이터 패킷 분석,  운전성향 분석 점수 로직 설계 및 점수화 모델 구현
+- **핵심 기술:** Arduino mini, MCP2515, 2.2 SPI TFT, SD 카드 모듈, SPI, CAN, OBD-II PID, UDS
+
+---
+
 ### 🛒 UWB 기반 ROS 자율주행 쇼핑카트 - 'QT-CART' (2025.11.20 ~ 2026.01.04)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/GiHwanC/QT-CART.git)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TjBJxa32S4Y) 
